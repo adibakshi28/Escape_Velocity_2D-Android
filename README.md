@@ -26,7 +26,7 @@ Escape Velocity 2D is an exhilarating endless scroller game set in outer space, 
 Escape Velocity 2D is a captivating 2D endless scroller game where players control a spaceship, navigating through space while avoiding obstacles and collecting items. The game is designed with Unity, providing a seamless and engaging experience for Android users.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Game%20Screenshot/EV%20(12).jpeg" alt="Game Screenshot 12" style="width: 32%">
+  <img src="Game%20Screenshot/EV%20(9).jpeg" alt="Game Screenshot 9" style="width: 32%">
   <img src="Game%20Screenshot/EV%20(15).jpeg" alt="Game Screenshot 15" style="width: 32%">
   <img src="Game%20Screenshot/EV%20(13).jpeg" alt="Game Screenshot 13" style="width: 32%">
 </div>
