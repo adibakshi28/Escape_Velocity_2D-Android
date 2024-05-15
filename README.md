@@ -27,7 +27,7 @@ Escape Velocity 2D is a captivating 2D endless scroller game where players contr
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Game%20Screenshot/EV%20(11).jpeg" alt="Game Screenshot 11" style="width: 32%">
-  <img src="Game%20Screenshot/EV%20(12).jpeg" alt="Game Screenshot 12" style="width: 32%">
+  <img src="Game%20Screenshot/EV%20(10).jpeg" alt="Game Screenshot 10" style="width: 32%">
   <img src="Game%20Screenshot/EV%20(13).jpeg" alt="Game Screenshot 13" style="width: 32%">
 </div>
 
